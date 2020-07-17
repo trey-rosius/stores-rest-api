@@ -1,6 +1,12 @@
 Flask
 Flask-RESTful
-Flask-JWT
+Flask-JWT-Extended
 Flask-SQLAlchemy
 uwsgi
-psycopg2
+stripe
+flask-marshmallow
+marshmallow-sqlalchemy
+marshmallow
+jinja2
+werkzeug
+python-dotenv
